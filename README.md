@@ -6,5 +6,19 @@
  
 </div>
 
-
 ![263e3f082246cb9cc522bedf09ccb80c](https://github.com/henrique-doRaio/henrique-doRaio/assets/168769340/15756681-147e-45bb-91e1-95588603c7bb)
+
+
+</div>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=henrique-doRaio&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=henrique-doRaio&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=henrique-doRaio&show_icons=true" />
+</picture>

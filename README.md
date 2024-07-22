@@ -1,8 +1,8 @@
-## Oiii eu sou o Henrique Pedrozo Silva, iniciante na programação e tecnologia!
+## Oi eu sou o Henrique Pedrozo Silva, iniciante na programação e tecnologia!
 ### Aproveitando a oportunidade que eu tive!!
 <div> 
   <a href="https://instagram.com/henrique_Pedrozo120" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "pedrozo140@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://accounts.google.com/SignOutOptions?hl=pt-BR&continue=https://mail.google.com/mail/&service=mail&ec=GBRAFw"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
 </div>
 

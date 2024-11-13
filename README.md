@@ -6,7 +6,6 @@
  
 </div>
 
-![263e3f082246cb9cc522bedf09ccb80c](https://github.com/henrique-doRaio/henrique-doRaio/assets/168769340/15756681-147e-45bb-91e1-95588603c7bb)
 
 
 </div>

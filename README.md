@@ -7,12 +7,12 @@
 </div>
 
 
-![263e3f082246cb9cc522bedf09ccb80c](https://github.com/henrique-doRaio/henrique-doRaio/assets/168769340/15756681-147e-45bb-91e1-95588603c7bb)
+![263e3f082246cb9cc522bedf09ccb80c](https://github.com/Henrique-pedrozo/Henrique-pedrozo/assets/168769340/15756681-147e-45bb-91e1-95588603c7bb)
 
 </div>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-doRaio&amp;layout=compact&amp;langs_count=7&amp;theme=dracula" style="max-width: 100%;" height="120em">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-pedrozo&amp;layout=compact&amp;langs_count=7&amp;theme=dracula" style="max-width: 100%;" height="120em">
 
 <picture>
   <source
@@ -20,8 +20,8 @@
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Henrique-Pedrozo&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=Henrique-pedrozo&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=henrique-doRaio&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Henrique-pedrozo&show_icons=true" />
 </picture>

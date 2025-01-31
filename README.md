@@ -1,7 +1,7 @@
 ## Oi, eu sou o Henrique Pedrozo Silva! 👋  
 ### Entrei no mundo da programação e tecnologia e aproveitei muito a oportunidade que tive ao participar da YouxLab!  
 ### Tenho conhecimento intermediário em **Java** e experiência com **Spring Boot**.  
-
+### Começando Javascript!🚀
 ---
 
 ### 🚀 Tecnologias  

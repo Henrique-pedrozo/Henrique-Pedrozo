@@ -1,5 +1,5 @@
-## Oi eu sou o Henrique Pedrozo Silva, iniciante na programação e tecnologia!
-### Aproveitando a oportunidade que eu tive!!
+## Oi eu sou o Henrique Pedrozo Silva, entrei no mundo da programação e tecnologia.
+### Aproveitei muito a oportunidade que tive, que foi participar da YouxLab!!
 <div> 
   <a href="https://instagram.com/henrique_Pedrozo120" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

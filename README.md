@@ -14,12 +14,12 @@
 
 ### 📊 Estatísticas  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-pedrozo&layout=compact&langs_count=7&theme=dracula" height="150em" />
-  <br />
+  <img src="https://metrics.lecoq.io/Henrique-pedrozo?base=languages&base.languages.units=percent&base.languages.ignored=html,css&palette=terminal" height="180em" />
+  <br/>
   <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=Henrique-pedrozo&show_icons=true&theme=dark" media="(prefers-color-scheme: blue)" />
-    <source srcset="https://github-readme-stats.vercel.app/api?username=Henrique-pedrozo&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Henrique-pedrozo&show_icons=true" />
+    <source srcset="https://metrics.lecoq.io/Henrique-pedrozo?base=header,activity,community&palette=terminal" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://metrics.lecoq.io/Henrique-pedrozo?base=header,activity,community&palette=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://metrics.lecoq.io/Henrique-pedrozo?base=header,activity,community" />
   </picture>
 </div>
 

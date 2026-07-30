@@ -26,7 +26,6 @@ Focado em construir soluções e em constante aprendizado. Atualmente, busco apl
 
 ### 📊 Estatísticas
 <div align="center">
-  <img src="https://metrics.lecoq.io/Henrique-pedrozo?base=languages&base.languages.units=percent&base.languages.ignored=html,css&palette=terminal" height="180em" />
   <br/>
   <picture>
     <source srcset="https://metrics.lecoq.io/Henrique-pedrozo?base=header,activity,community&palette=terminal" media="(prefers-color-scheme: dark)" />
